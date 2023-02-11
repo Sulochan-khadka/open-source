@@ -1,5 +1,5 @@
 hi, theres just a practice session to learn git and implement it in to the open source.
-
+and the rest is just funning away.
 
 
 
