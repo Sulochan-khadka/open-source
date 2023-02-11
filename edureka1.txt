@@ -1,1 +1,6 @@
-hi, theres just a practice session to learn git and imolement it in to the open source.
+hi, theres just a practice session to learn git and implement it in to the open source.
+
+
+
+
+This is a small step towards a big future.
